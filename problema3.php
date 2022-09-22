@@ -1,3 +1,8 @@
+<!--
+/*
+    Author: Jose Ruz
+    Email: daraeowl@outlook.com
+-->
 <!-- Problema 3
 
 Dado un array de enteros el desafío es encontrar un elemento del array tal que la suma de
