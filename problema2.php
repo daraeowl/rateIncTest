@@ -1,3 +1,8 @@
+<!--
+/*
+    Author: Jose Ruz
+    Email: daraeowl@outlook.com
+/*-->
 <!-- Dado 5 valores enteros positivos, encuentra los mínimos y máximos valores que pueden ser
 calculados sumando exactamente 4 de los 5 enteros. Luego imprime los respectivos minimo
 y maximo en una linea de 2 numeros separados. print mínimo + “ “ + máximo
