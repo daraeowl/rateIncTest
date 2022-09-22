@@ -2,8 +2,8 @@
 /*
     Author: Jose Ruz
     Email: daraeowl@outlook.com
--->
-<!-- Problema 3
+
+ Problema 3
 
 Dado un array de enteros el desafío es encontrar un elemento del array tal que la suma de
 todos los elementos de la izquierda sea igual a la suma de todos los elementos de la
