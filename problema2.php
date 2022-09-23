@@ -19,7 +19,7 @@ function miniMaxSum($arr) {
     }
     $min = $sum - max($arr);
     $max = $sum - min($arr);
-    echo $min . "," . $max;
+    print $min . "," . $max;
 }
 
 $arr = array(7, 3, 9, 1, 5);
