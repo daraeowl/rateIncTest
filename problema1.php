@@ -11,9 +11,6 @@
  * La funcion acepta un INTEGER_ARRAY ar como parametro.
  */
 $numbers = array(664, 12, 9, 1, 4);
-$arr_sum = array_sum($numbers);
-
-
 function simpleArraySum($ar) {
     // Escribe tu codigo aqui
     $sum = 0;
@@ -23,8 +20,7 @@ function simpleArraySum($ar) {
     return $sum;
 
 }
-
-print  $arr_sum;
+print  simpleArraySum($numbers);
 
 // $fptr = fopen(getenv("OUTPUT_PATH"), "w");
 
